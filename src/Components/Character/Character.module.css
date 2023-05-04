@@ -14,11 +14,10 @@
 
 .character_details {
     list-style: none;
-    margin: auto;
+    margin: auto 15px;
     background-color: #bfc0c2;
     min-height: 30vh;
     padding: 0;
-    border: #616a71 solid .1rem;
     border-radius: .3rem;
 }
 

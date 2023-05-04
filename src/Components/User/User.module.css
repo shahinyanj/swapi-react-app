@@ -1,12 +1,10 @@
 .user_sidebar {
     width: 500px;
-    /* min-height: 50vh; */
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     margin-left: 10px;
-    border: transparent solid .1rem;
+    border: transparent ;
     border-radius: .3rem;
     background-color: #616a71;
 }
@@ -17,10 +15,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: transparent solid .1rem;
-    border-radius: .3rem;
+    border: transparent;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
     min-height: 150px;
-
 }
 
 .user_image img {

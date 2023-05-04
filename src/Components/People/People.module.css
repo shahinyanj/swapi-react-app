@@ -1,6 +1,5 @@
-.people_container { 
+.people_container {
     width: 100%;
-    
     border-radius: .3rem;
     margin-right: 10px;
 }
@@ -9,7 +8,7 @@
     background-color: #bfc0c2;
     border: transparent;
     border: transparent solid .1rem;
-    border-radius: .3rem;
+
 }
 
 .people_btn {
@@ -36,7 +35,8 @@
     width: 100%;
     background-color: #212528;
     border: #212528 solid .1rem;
-    border-radius: .2rem;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
 }
 
 .people_btn_header {
@@ -44,18 +44,14 @@
     color: #bfc0c2;
     border: none;
     font-size: 16px;
-    cursor: pointer;
-    padding-left: 50px;
+    padding-left: 13px;
     height: 30px;
-}
-
-.people_btn_header:hover {
-    opacity: .7;
 }
 
 .people_footer {
     background-color: #212528;
-    border-radius: .3rem;
+    border-bottom-left-radius: .3rem;
+    border-bottom-right-radius: .3rem;
 }
 
 .line {
