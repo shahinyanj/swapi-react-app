@@ -1,0 +1,23 @@
+.user_details {
+    background-color: #bfc0c2;
+    width: 100%;
+    margin: 10px;
+    width: 320px;
+    border: #77787b transparent 1px;
+    border-radius: .3rem;
+    font-size: 16px;
+    text-align: center;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 18px 0;
+}
+
+
+
+
+.line {
+    border-bottom: 1px solid #77787b;
+    display: block;
+}

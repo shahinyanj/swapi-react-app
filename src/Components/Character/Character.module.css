@@ -1,0 +1,37 @@
+.details_container {
+    background-color: #616a71;
+    padding-bottom: 50px;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    color: #fff;
+    margin: auto;
+    padding: 7px;
+}
+
+.character_details {
+    list-style: none;
+    margin: auto;
+    background-color: #bfc0c2;
+    min-height: 30vh;
+    padding: 0;
+    border: #616a71 solid .1rem;
+    border-radius: .3rem;
+}
+
+.character_details li {
+    font-size: 16px;
+    padding: 10px;
+    color: #2d2e2e;
+}
+
+
+.line {
+    border-bottom: 1px solid #a8a9ac;
+    display: block;
+    width: 100%;
+}
+

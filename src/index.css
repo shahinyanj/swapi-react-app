@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main_container {
+    display: flex;
+    gap: 30px;
+}
+
+.pagination {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}

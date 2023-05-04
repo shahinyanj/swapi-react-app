@@ -1,0 +1,34 @@
+
+.navbar {
+    background-color: #212528;
+    color: rgb(199, 199, 199);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+
+    display: flex;
+    min-height: 10vh;
+    align-items: center;
+    gap: 20px;
+}
+
+.span {
+    font-size: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(138, 131, 131);
+}
+
+.navbar a:hover {
+    color: #fff;
+}
+
+.logo {
+    width: 30px;
+    padding-left: 10px;
+    margin-right: -10px;
+}
+

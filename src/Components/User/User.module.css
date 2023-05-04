@@ -1,0 +1,31 @@
+.user_sidebar {
+    width: 500px;
+    /* min-height: 50vh; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 10px;
+    border: transparent solid .1rem;
+    border-radius: .3rem;
+    background-color: #616a71;
+}
+
+.user_image {
+    background-color: #212528;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: transparent solid .1rem;
+    border-radius: .3rem;
+    min-height: 150px;
+
+}
+
+.user_image img {
+    width: 100px;
+    height: 110px;
+
+}
+

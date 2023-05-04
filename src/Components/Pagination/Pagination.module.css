@@ -1,0 +1,36 @@
+.page_list {
+    flex-direction: row;
+    display: flex;
+}
+
+.item_style {
+    color: #fff;
+    list-style: none;
+    display: flex;
+    background-color: grey;
+    border-right: rgb(165, 163, 163) solid .1rem;
+}
+
+.item_style a {
+    color: azure;
+    width: 30px;
+    height: 30px;
+    /* text-align: center; */
+    justify-content: center;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.item_style a:hover {
+    background-color: rgb(93, 93, 93);
+}
+
+.link_style {
+    color:rgb(203, 199, 199);
+    display: flex;
+}
+
+
+
